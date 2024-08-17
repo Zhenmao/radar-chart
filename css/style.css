@@ -1,36 +1,37 @@
 body {
-	font-family: sans-serif;
-	font-size: 14px;
-	background-color: #37373D;
-	cursor: default;
+  font-family: sans-serif;
+  font-size: 14px;
+  background-color: #37373d;
+  cursor: default;
+  margin: 0;
 }
 
 .container {
-	display: flex;
-	align-items: center;
-	justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .level-line {
-	stroke: #5F5F64;
+  stroke: #5f5f64;
 }
 
 .level-value {
-	fill: #5F5F64;
+  fill: #5f5f64;
 }
 
 .axis-line {
-	stroke: #5F5F64;
+  stroke: #5f5f64;
 }
 
 .axis-name {
-	fill: #fff;
+  fill: #fff;
 }
 
 .value {
-	fill: #fff;
+  fill: #fff;
 }
 
 .legend-item-text {
-	fill: #5F5F64;
+  fill: #5f5f64;
 }
